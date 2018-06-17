@@ -1,0 +1,13 @@
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\PathDemo\PathDemo\bin\Debug\PathDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\PathDemo\PathDemo\bin\Debug\PathDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\PathDemo\PathDemo\bin\Debug\PathDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\PathDemo\PathDemo\obj\Debug\PathDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\PathDemo\PathDemo\obj\Debug\PathDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\PathDemo\PathDemo\obj\Debug\PathDemo.csprojResolveAssemblyReference.cache
+C:\Users\umit\Desktop\C#_araştırma\c#\ileri seviye c#\2014-10-C#-ileri-seviye-dok\PathDemo\PathDemo\bin\Debug\PathDemo.exe.config
+C:\Users\umit\Desktop\C#_araştırma\c#\ileri seviye c#\2014-10-C#-ileri-seviye-dok\PathDemo\PathDemo\bin\Debug\PathDemo.exe
+C:\Users\umit\Desktop\C#_araştırma\c#\ileri seviye c#\2014-10-C#-ileri-seviye-dok\PathDemo\PathDemo\bin\Debug\PathDemo.pdb
+C:\Users\umit\Desktop\C#_araştırma\c#\ileri seviye c#\2014-10-C#-ileri-seviye-dok\PathDemo\PathDemo\obj\Debug\PathDemo.csprojAssemblyReference.cache
+C:\Users\umit\Desktop\C#_araştırma\c#\ileri seviye c#\2014-10-C#-ileri-seviye-dok\PathDemo\PathDemo\obj\Debug\PathDemo.csproj.CoreCompileInputs.cache
+C:\Users\umit\Desktop\C#_araştırma\c#\ileri seviye c#\2014-10-C#-ileri-seviye-dok\PathDemo\PathDemo\obj\Debug\PathDemo.exe
+C:\Users\umit\Desktop\C#_araştırma\c#\ileri seviye c#\2014-10-C#-ileri-seviye-dok\PathDemo\PathDemo\obj\Debug\PathDemo.pdb
